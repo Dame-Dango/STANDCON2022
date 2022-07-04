@@ -5,7 +5,7 @@ permalink: index.html
 ---
 # N0H4TS STANDCON 2022 CTF Competition
 
-
+This is our first competition where we won first place in!
 
 ![Scoreboard](images/scoreboard.png)
 
