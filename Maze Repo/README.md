@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MazeRepo
+title: Maze Repo
 permalink: /:path/
 nav_order: 2
 ---
